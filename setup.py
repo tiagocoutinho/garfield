@@ -16,8 +16,8 @@ requirements = [
 
 setup(
     name='garfield-get',
-    version='0.0.1',
-    description="downloader of calvin and hobbes comics",
+    version='0.0.2',
+    description="downloader of garfield comics",
     author="Tiago Coutinho",
     author_email='coutinhotiago@gmail.com',
     url='https://github.com/tiagocoutinho/garfield',
@@ -29,7 +29,7 @@ setup(
     },
     install_requires=requirements,
     zip_safe=False,
-    keywords='calvin, hobbes',
+    keywords='garfield',
     classifiers=[
         'Programming Language :: Python :: 2.6',
         'Programming Language :: Python :: 2.7',

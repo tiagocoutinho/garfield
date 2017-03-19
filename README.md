@@ -1,10 +1,10 @@
 # calvin and hobbes
 
-downloader of calvin-hobbes comics
+downloader of garfield comics
 
 ## Installation
 
-    $ pip install calvin-hobbes-get
+    $ pip install garfield-get
 
 ## Requirements
 
@@ -13,8 +13,8 @@ downloader of calvin-hobbes comics
 
 ## Usage
 
-    $ # Downloads all calvin-hobbes comics to ~/Downloads/calvin-hobbes
-    $ calvin-hobbes-get
+    $ # Downloads all garfield comics to ~/Downloads/garfield
+    $ garfield-get
 
-    $ # Downloads calvin-hobbes comics [1999-01-03..2012-10-20] to /tmp/calvin-hobbes
-    $ calvin-hobbes-get --start=1999-01-03 --end=2012-10-20 --output-dir=/tmp/calvin-hobbes
+    $ # Downloads garfield comics [1999-01-03..2012-10-20] to /tmp/garfield
+    $ garfield-get --start=1999-01-03 --end=2012-10-20 --output-dir=/tmp/garfield

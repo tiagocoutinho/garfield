@@ -20,7 +20,7 @@ from requests.exceptions import ConnectionError
 
 from bs4 import BeautifulSoup
 
-__version__ = '0.0.1'
+__version__ = '0.0.2'
 
 name = "garfield"
 site = 'http://www.gocomics.com/{0}'.format(name)
